@@ -1,2 +1,3 @@
 # excelr
-this is my first repository
+This is my first repositor
+author- sreeja reddy
